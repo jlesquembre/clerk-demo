@@ -1,4 +1,4 @@
-;; # Hello, Clerk 👋
+;; # My clerk notebook test
 ^{:nextjournal.clerk/visibility {:code :hide}}
 (ns introduction
   (:require [nextjournal.clerk :as clerk]

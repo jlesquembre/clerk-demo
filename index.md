@@ -7,6 +7,8 @@
 
 # 🎪 Clerk Demo [on GitHub](https://github.com/nextjournal/clerk-demo)
 
+# My dummy demo [jlesquembre/clerk-demo](https://github.com/jlesquembre/clerk-demo)
+
 ```clojure
 (clerk/html
   (into
